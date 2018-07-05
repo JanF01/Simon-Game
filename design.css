@@ -16,6 +16,8 @@ body {
   display:flex;
   overflow:hidden;
   margin-top:6em;
+   -moz-user-select:none;
+   user-select:none;
  
   
 
