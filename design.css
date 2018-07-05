@@ -3,6 +3,12 @@ body {
   color:white;
   background-size:94%;
 }
+*{
+   moz-user-select:none;
+   user-select:none;
+
+
+} 
 .simon{
   background-color:#2E3437;
   width:840px;
@@ -16,8 +22,8 @@ body {
   display:flex;
   overflow:hidden;
   margin-top:6em;
-   -moz-user-select:none;
-   user-select:none;
+   
+
  
   
 
