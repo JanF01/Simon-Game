@@ -7,7 +7,9 @@ body {
    moz-user-select:none;
    user-select:none;
    outline:none;
-
+   display:flex;
+   align-items:center;
+   justify-content:center;
 
 } 
 .simon{
@@ -22,7 +24,6 @@ body {
   overflow:none;
   display:flex;
   overflow:hidden;
-  margin-top:1em;
    
 
  
