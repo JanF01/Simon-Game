@@ -2,14 +2,14 @@ body {
    background:url("https://s-media-cache-ak0.pinimg.com/originals/71/c0/70/71c070eae02efb0dad6afa3a6c88a70a.jpg");
   color:white;
   background-size:94%;
+     display:flex;
+   align-items:center;
+   justify-content:center;
 }
 *{
    moz-user-select:none;
    user-select:none;
    outline:none;
-   display:flex;
-   align-items:center;
-   justify-content:center;
 
 } 
 .simon{
